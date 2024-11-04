@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on real-time chat app project
 - 📫 How to reach me not defined
 - 😄 Pronouns: roxy
-- ⚡ Fun fact: every is a developer of own life 
+- ⚡ Fun fact: everyone is a developer of own life 
 
 <!---
 Dev-roxy/Dev-roxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
