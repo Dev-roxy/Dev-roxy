@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning next.js
+- 🌱 I’m currently learning scss
 - 💞️ I’m looking to collaborate on real-time chat app project
 - 📫 How to reach me : sapneme
 - 😄 Pronouns: roxy
